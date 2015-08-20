@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This function creates an object that includes a matrix 
 ## with a cache to store the invererse of the matrix
 
